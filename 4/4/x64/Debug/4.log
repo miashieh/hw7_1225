@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\peihu\OneDrive\Desktop\hw7\4\4\main.c(15,17): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  4.vcxproj -> C:\Users\peihu\OneDrive\Desktop\hw7\4\x64\Debug\4.exe
